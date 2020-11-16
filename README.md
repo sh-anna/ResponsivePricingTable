@@ -1,2 +1,2 @@
 # ResponsivePricingTable
-Responsive Pricing Table
+Responsive Pricing Table in HTML&CSS
